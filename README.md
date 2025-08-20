@@ -8,13 +8,13 @@
 
 ## 🛠 Tech Stack
 
-Frontend: React.js, Next.js, Angular, React Native, Tailwind, Material UI
-Backend: Node.js, Express.js, FastAPI, CodeIgniter
-Databases: MongoDB, PostgreSQL, MySQL
-Cloud & DevOps: AWS, Docker, Kubernetes, EKS, CI/CD Pipelines
-Others: Stripe, MQTT, Automation, WebSockets
+* Frontend: React.js, Next.js, Angular, React Native, Tailwind, Material UI
+* Backend: Node.js, Express.js, FastAPI, CodeIgniter
+* Databases: MongoDB, PostgreSQL, MySQL
+* Cloud & DevOps: AWS, Docker, Kubernetes, EKS, CI/CD Pipelines
+* Others: Stripe, MQTT, Automation, WebSockets
 
 ## 📌 Current Focus
-Scaling MERN/MEAN apps for millions of records
-Building SaaS platforms with microservices architecture
-Diving deeper into AI, LangChain & Deep Learning
+* Scaling MERN/MEAN apps for millions of records
+* Building SaaS platforms with microservices architecture
+* Diving deeper into AI, LangChain & Deep Learning
