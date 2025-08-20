@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @yourHighness11
-- 👀 I’m interested in software development.
-- 💞️ I’m looking to collaborate on web, app and cloud.
+##👋 Hi, I’m @yourHighness11
 
-<!---
-yourHighness11/yourHighness11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full Stack Developer | MERN & MEAN | React Native | Next.js
+⚡ Skilled in Microservices, Cloud (AWS, Docker, Kubernetes, EKS) & DevOps (CI/CD)
+📊 Experienced with MongoDB, PostgreSQL, Stripe, MQTT, and automation
+🤖 Exploring AI/ML (LangChain, FastAPI, Pinecone) & Deep Learning
+🚀 Passionate about building scalable apps, SaaS platforms & fintech solutions
+
+## 🛠 Tech Stack
+
+Frontend: React.js, Next.js, Angular, React Native, Tailwind, Material UI
+Backend: Node.js, Express.js, FastAPI, CodeIgniter
+Databases: MongoDB, PostgreSQL, MySQL
+Cloud & DevOps: AWS, Docker, Kubernetes, EKS, CI/CD Pipelines
+Others: Stripe, MQTT, Automation, WebSockets
+
+## 📌 Current Focus
+Scaling MERN/MEAN apps for millions of records
+Building SaaS platforms with microservices architecture
+Diving deeper into AI, LangChain & Deep Learning
