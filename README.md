@@ -1,4 +1,4 @@
-##👋 Hi, I’m @yourHighness11
+## 👋Hi, I’m @yourHighness11
 
 💻 Full Stack Developer | MERN & MEAN | React Native | Next.js
 ⚡ Skilled in Microservices, Cloud (AWS, Docker, Kubernetes, EKS) & DevOps (CI/CD)
